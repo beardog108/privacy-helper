@@ -1,0 +1,30 @@
+.questions{
+    display: none;
+    text-align: center;
+}
+.questions p{
+    padding-bottom: 3em;
+}
+
+.btn{
+    margin-bottom: 1em;
+}
+
+.mainP, #general{
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 1em;
+    text-align: justify;
+    border: 1px solid black;
+    padding-top: 5%;
+}
+@media screen and (max-width: 600px){
+    .mainP{
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+}
+
+.center{
+    text-align: center;
+}
